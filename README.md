@@ -2,7 +2,7 @@
 ## Репо для изучения курса DE_101 от Data Learn :metal:
 
 ### Разделы моего репо и процесс прохождения:
-- [X] Введение(https://github.com/PyLeonid/datalearn_DE/tree/main/intro.md)
+- [X] [Введение](https://github.com/PyLeonid/datalearn_DE/tree/main/intro.md)
 - [ ] Модуль 01 - Роль Аналитики
 - [ ] Модуль 02 - Базы данных и SQL 
 - [ ] Модуль 03 - Business Intelligence
